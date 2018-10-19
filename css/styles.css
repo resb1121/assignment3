@@ -1,0 +1,25 @@
+
+*{
+    box-sizing: border-box;
+}
+    
+
+
+p{
+    font-family:serif;
+}
+
+
+#special-pic{
+    box-shadow: 3px 3px gray
+    
+    
+}
+
+.tea{
+    box-shadow: 4px 4px gray
+}
+
+img{
+    box-shadow: 3px 3px gray 
+}
