@@ -3,6 +3,8 @@
     box-sizing: border-box;
 }
     
+header {display: flex}
+main { display: flex; flex-direction: column;}
 
 
 p{
