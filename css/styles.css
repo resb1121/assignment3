@@ -24,4 +24,11 @@ p{
 
 img{
     box-shadow: 3px 3px gray 
+        
+}
+
+body{
+    background-image: url(backwhite.jpeg);
+    background-position: center;
+    background-attachment: fixed;
 }
