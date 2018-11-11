@@ -32,3 +32,9 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+
+header nav ul {
+    
+    display: flex;
+    justify-content: flex-end;
+}
